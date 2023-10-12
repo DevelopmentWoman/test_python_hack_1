@@ -86,6 +86,8 @@ list: [1,3,5,7,9] output => [3,5,7]
 loop: while [1,2,3] ouput => [1,'@',2,'@',3,'@']
 ```
 <br/>
+<span>![image](https://github.com/DevelopmentWoman/test_python_hack_1/assets/87539202/6e6418f5-1810-490e-a6d5-e4fc578861cf)
+</span>
 
 ## 🏆 H-10
 ```sh
